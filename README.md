@@ -6,6 +6,8 @@
 
 **Our RMITY Social App is Travis CI/CD enabled, deployed onto Google App Engine and utilising Google Cloud SQL for database storage.**
 
+**GAE instances is no longer running.
+
 **https://inseption.appspot.com/** -- for frontend (client)
 
 **https://inseption-backend.appspot.com/** -- for backend
